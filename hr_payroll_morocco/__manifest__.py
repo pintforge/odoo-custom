@@ -2,15 +2,15 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Indian Payroll',
+    'name': 'Moroccan Payroll',
     'category': 'Localization',
     'depends': ['hr_payroll'],
     'description': """
-Indian Payroll Salary Rules.
+Moroccan Payroll Salary Rules.
 ============================
 
-    -Configuration of hr_payroll for India localization
-    -All main contributions rules for India payslip.
+    -Configuration of hr_payroll for Morocco localization
+    -All main contributions rules for Morocco payslip.
     * New payslip report
     * Employee Contracts
     * Allow to configure Basic / Gross / Net Salary
